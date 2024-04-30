@@ -19,7 +19,7 @@ $successMessage = 'Thank you for your submission! I\'ll get back to you soon.';
 
 if (!empty($_POST)) {
    $name = $_POST['name'];
-   $email = $_POST['email'];
+   $email = $_POST['myEmail'];
    $message = $_POST['message'];
 
    if (empty($name)) {
@@ -69,7 +69,7 @@ if (!empty($_POST)) {
    </p>
    <p>
      <label>Email Address:</label>
-     <input style="cursor: pointer;" name="email" type="text"/>
+     <input style="cursor: pointer;" name="myEmail" type="text"/>
    </p>
    <p>
      <label>Message:</label>

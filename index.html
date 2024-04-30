@@ -80,10 +80,20 @@
 -->
                 </div>
              </div>
-         
+
+                <form>
+                    <h2>Contact me</h2>
+                    <p><label>Name:</label> <input name="myEmail" type="text" /></p>
+                    <p><label>Email Address:</label> <input style="cursor: pointer;" name="myEmail" type="text" /></p>
+                    <p><label>Message:</label> <textarea name="message"></textarea> </p>
+                    <p><input type="submit" value="Send" /></p>
+                </form>
+            </div>
+            </div>
+
               <div id="contact">
                  <h1>Contact Me</h1> 
-                 <form action="mailto:>jaob.spears.tech@gmail.com" autocomplete="on">
+                 <form action="mailto:>jaob.spears.tech@gmail.com" autocomplete="on" method="post" enctype="text/plain">
                      <input type="text" placeholder="name" required>
                      <input type="email" placeholder="email" required><br>
                      <textarea placeholder="your message" required rows="4"></textarea><br>

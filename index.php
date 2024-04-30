@@ -55,7 +55,7 @@ if (!empty($_POST)) {
 <html>
 <body>
  <form  method="post" id="contact-form">
-   <h2>Contact us</h2>
+   <h2>Contact me</h2>
    <?php echo((!empty($errorMessage)) ? $errorMessage : '') ?>
    <p>
      <label>Name:</label>
@@ -70,7 +70,7 @@ if (!empty($_POST)) {
      <textarea name="message"></textarea>
    </p>
    <p>
-
+     <button class="btn_one">send</button>
      <input type="submit" value="Send"/>
    </p>
  </form>

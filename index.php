@@ -8,8 +8,14 @@
 
 <?php
 
+use PHPMailer\PHPMailer\PHPMailer;
+use PHPMailer\PHPMailer\Exception;
+
+require 'vendor/autoload.php'
+
 $errors = [];
-$errorMessage = '';
+$errorMessage = 'There was a problem sending your message. Please try again later.'
+$successMessage = 'Thank you for your submission! I\'ll get back to you soon.';
 
 if (!empty($_POST)) {
    $name = $_POST['name'];

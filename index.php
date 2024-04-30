@@ -71,7 +71,7 @@ if (!empty($_POST)) {
    </p>
    <p>
      <button class="btn_one">send</button>
-     <input type="submit" value="Send"/>
+<!--     <input type="submit" value="Send"/>    -->
    </p>
  </form>
 

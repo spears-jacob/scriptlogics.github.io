@@ -32,7 +32,7 @@ if (!empty($_POST)) {
 
    if (empty($errors)) {
        $toEmail = 'jacob.spears.tech@gmail.com';
-       $emailSubject = 'New email from your contact form';
+       $emailSubject = 'New email from your ScriptLogics LLC contact form';
        $headers = ['From' => $email, 'Reply-To' => $email, 'Content-type' => 'text/html; charset=utf-8'];
        $bodyParagraphs = ["Name: {$name}", "Email: {$email}", "Message:", $message];
        $body = join(PHP_EOL, $bodyParagraphs);

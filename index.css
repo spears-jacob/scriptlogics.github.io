@@ -196,6 +196,23 @@ body,html {
     cursor:pointer;
     color:#fff;
 }
+.btn_thr {
+    color: white;
+    padding: 10px 40px;
+    border-radius: 58px;
+    border: 2px solid #fff;
+    font-size: 18px;
+    font-family: 'Comfortaa', cursive;
+    font-weight: bold;
+    background: transparent;
+    transition: 0.4s ease-in-out;
+    margin: 30px 10px;
+}
+.btn_thr:hover {
+    background: white;
+    cursor: pointer;
+    color: #000;
+}
 #details {
     margin:6vh 0px;
 }

@@ -56,6 +56,19 @@ body,html {
     animation: Gradient 20s ease infinite;
     font-family: 'Comfortaa', cursive;
 }
+#titlelinks {
+    font-size: 40px;
+    background-image: linear-gradient(to left, hsl(307, 72%, 83%) 0%, hsl(163, 45%, 63%) 100%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-size: 500% 500% !important;
+    -webkit-animation: Gradient 20s ease infinite;
+    -moz-animation: Gradient 20s ease infinite;
+    -o-animation: Gradient 20s ease infinite;
+    animation: Gradient 20s ease infinite;
+    font-family: 'Comfortaa', cursive;
+}
 #links {
     margin:40px 0px;
     transition:0.6s ease-in-out;

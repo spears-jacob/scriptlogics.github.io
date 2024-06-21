@@ -72,11 +72,11 @@ body,html {
 #links a:hover {
     border-bottom:2px solid #fff;
 }
-#middle {
+#middlehome {
     margin: 10px;
     width:100%;
     height:80vh;
-    background:linear-gradient(0deg,rgba(0,0,0,1),rgba(0,0,0,0)),url("https://scriptlogicsllc.com/utils/background.jpg") center center fixed;
+    background:linear-gradient(0deg,rgba(0,0,0,1),rgba(0,0,0,0)),url("https://scriptlogicsllc.com/utils/home_page.jpg") center center fixed;
     background-size:100% auto;
     background-repeat:no-repeat;
     color:white;
@@ -85,6 +85,33 @@ body,html {
     flex-direction:column;
     transition:1s ease-in-out;
     padding-top:20vh;
+}
+#middledata {
+    margin: 10px;
+    width: 100%;
+    height: 80vh;
+    background: linear-gradient(0deg, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0)), url("https://scriptlogicsllc.com/utils/data_work.jpg") center center fixed;
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+    color: white;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    transition: 1s ease-in-out;
+    padding-top: 20vh;
+}#middlewriting {
+    margin: 10px;
+    width: 100%;
+    height: 80vh;
+    background: linear-gradient(0deg, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0)), url("https://scriptlogicsllc.com/utils/tech_writing.jpg") center center fixed;
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+    color: white;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    transition: 1s ease-in-out;
+    padding-top: 20vh;
 }
 #tagline {
     font-size:50px;

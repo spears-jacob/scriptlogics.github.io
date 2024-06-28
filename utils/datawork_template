@@ -1,0 +1,188 @@
+ORI Services and questions we can help answer: (Organization, Research, and Ingest)
+<br>
+<ul style="list-style-type: circle;">
+    <li>Organization
+        <ul style="list-style-type: square;">
+            <li>Data Migration</li>
+            <ul style="list-style-type: disc;">
+                <li>System conversion (one warehouse to another).</li>
+                <li>Cloud migration (On-Prem to Cloud).</li>
+            </ul>
+            <li>ETL or ELT?</li>
+            <ul style="list-style-type: disc;">
+                <li>How you intend to consume your data will inform which works best for your organization.</li>
+            </ul>
+            <li>Schema</li>
+            <ul style="list-style-type: disc;">
+                <li>Is your data relational?</li>
+                <li>Is a file-distributed system best for you?</li>
+            </ul>
+            <li>Platform</li>
+            <ul style="list-style-type: disc;">
+                <li>Do you already have a platform that you need help setting up?</li>
+                <li>Are there budgetary or organizational limitations to consider in choosing a platform?</li>
+                <li>What system is the most efficient for storing and organizing your data?</li>
+            </ul>
+            <li>Architecture</li>
+            <ul style="list-style-type: disc;">
+                <li>Designing the Ingest process (how are you receiving your data?)</li>
+                <li>Building your Data Models to fit your reporting structure.</li>
+                <li>Creating a Data Map for your organization.</li>
+            </ul>
+        <li>Research
+            <ul style="list-style-type: square;">
+                <li>text</li>
+                <ul style="list-style-type: disc;">
+                    <li>text</li>
+                    <li>text</li>
+                </ul>
+                <li>text</li>
+                <ul style="list-style-type: disc;">
+                    <li>text</li>
+                    <li>text</li>
+                </ul>
+            </ul>
+        <li>Ingest
+            <ul style="list-style-type: square;">
+                <li>text</li>
+                <ul style="list-style-type: disc;">
+                    <li>text</li>
+                    <li>text</li>
+                </ul>
+                <li>text</li>
+                <ul style="list-style-type: disc;">
+                    <li>text</li>
+                    <li>text</li>
+                </ul>
+            </ul>
+        </li>
+</ul>
+<br>
+OPP Services and questions we can help answer: (Operation, Pipelining, and Production)
+<br>
+<ul style="list-style-type: circle;">
+    <li>Operation
+        <ul style="list-style-type: square;">
+            <li>text</li>
+            <ul style="list-style-type: disc;">
+                <li>text</li>
+                <li>text</li>
+            </ul>
+            <li>text</li>
+            <ul style="list-style-type: disc;">
+                <li>text</li>
+                <li>text</li>
+            </ul>
+    <li>Pipelining
+        <ul style="list-style-type: square;">
+            <li>text</li>
+            <ul style="list-style-type: disc;">
+                <li>text</li>
+                <li>text</li>
+            </ul>
+            <li>text</li>
+            <ul style="list-style-type: disc;">
+                <li>text</li>
+                <li>text</li>
+            </ul>
+    <li>Production
+        <ul style="list-style-type: square;">
+            <li>text</li>
+            <ul style="list-style-type: disc;">
+                <li>text</li>
+                <li>text</li>
+            </ul>
+            <li>text</li>
+            <ul style="list-style-type: disc;">
+                <li>text</li>
+                <li>text</li>
+            </ul>
+        </ul>   
+    </li>
+</ul>
+<br>
+
+OPP Services and questions we can help answer: (Optimization, Consumption, and Presentation)
+<br>
+<ul style="list-style-type: circle;">
+    <li>Operation
+        <ul style="list-style-type: square;">
+            <li>text</li>
+            <ul style="list-style-type: disc;">
+                <li>text</li>
+                <li>text</li>
+            </ul>
+            <li>text</li>
+            <ul style="list-style-type: disc;">
+                <li>text</li>
+                <li>text</li>
+            </ul>
+    <li>Pipelining
+        <ul style="list-style-type: square;">
+            <li>text</li>
+            <ul style="list-style-type: disc;">
+                <li>text</li>
+                <li>text</li>
+            </ul>
+            <li>text</li>
+            <ul style="list-style-type: disc;">
+                <li>text</li>
+                <li>text</li>
+            </ul>
+    <li>Production
+        <ul style="list-style-type: square;">
+            <li>text</li>
+            <ul style="list-style-type: disc;">
+                <li>text</li>
+                <li>text</li>
+            </ul>
+            <li>text</li>
+            <ul style="list-style-type: disc;">
+                <li>text</li>
+                <li>text</li>
+            </ul>
+    </li>
+    <br>
+    Optimization, Consumption, and Presentation
+OCP Services and questions we can help answer: (Optimization, Consumption, and Presentation)
+<br>
+<ul style="list-style-type: circle;">
+    <li>Optimization
+        <ul style="list-style-type: square;">
+            <li>text</li>
+            <ul style="list-style-type: disc;">
+                <li>text</li>
+                <li>text</li>
+            </ul>
+            <li>text</li>
+            <ul style="list-style-type: disc;">
+                <li>text</li>
+                <li>text</li>
+            </ul>
+    <li>Consumption
+    <ul style="list-style-type: square;">
+        <li>text</li>
+            <ul style="list-style-type: disc;">
+                <li>text</li>
+                <li>text</li>
+            </ul>
+        <li>text</li>
+            <ul style="list-style-type: disc;">
+                <li>text</li>
+                <li>text</li>
+            </ul>
+    <li>Presentation
+    <ul style="list-style-type: square;">
+        <li>text</li>
+        <ul style="list-style-type: disc;">
+            <li>text</li>
+            <li>text</li>
+        </ul>
+        <li>text</li>
+        <ul style="list-style-type: disc;">
+            <li>text</li>
+            <li>text</li>
+        </ul>
+    </li>
+    <br>
+            

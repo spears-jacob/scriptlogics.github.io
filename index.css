@@ -56,7 +56,7 @@ body,html {
     animation: Gradient 20s ease infinite;
     font-family: 'Comfortaa', cursive;
 }
-#titlelinks {
+#title a {
     font-size: 40px;
     background-image: linear-gradient(to left, hsl(307, 72%, 83%) 0%, hsl(163, 45%, 63%) 100%);
     -webkit-background-clip: text;
@@ -68,6 +68,9 @@ body,html {
     -o-animation: Gradient 20s ease infinite;
     animation: Gradient 20s ease infinite;
     font-family: 'Comfortaa', cursive;
+}
+#title a:hover {
+    border-bottom:2px solid #fff;
 }
 #links {
     margin:40px 0px;
